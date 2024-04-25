@@ -38,6 +38,7 @@
               clang-unwrapped
               lld
               llvm
+              libcxx
             ]);
 
           hardeningDisable = ["all"];
